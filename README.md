@@ -1,2 +1,2 @@
-# To-Do-List-2
-HTML, CSS, JS project 10
+# To-Do-List-2 
+Another To-Do-list application made using HTML, CSS, and JS
